@@ -12,7 +12,7 @@ Topic modeling has been an enticing approach to large datasets for researchers i
 
 ## What's in this repo?
 This repo contains
-- An implementation of Guided topic Modeling as shown in the Symposium session: **guided_topic_model.py**
+- An implementation of Guided Topic Modeling as shown in the Symposium session: **guided_topic_model.py**
 - The slides that we showed at the Symposium session: **GuidedTopicModelBostonDH2024.pptx**
 
-Please reach out to peter.nadel@tufts.edu with any questions or comments.
+Please reach out to datalab-support@elist.tufts.edu with any questions or comments.
