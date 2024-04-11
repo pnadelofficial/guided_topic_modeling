@@ -233,7 +233,7 @@ class GuidedTM:
         self._format_and_batch_label_prompts()
         self._generate_labels()
         self._format_label_dict()
-        self._format_df
+        self._format_df()
         
         return self.topics
     
