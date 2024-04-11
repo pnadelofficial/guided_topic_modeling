@@ -1,6 +1,8 @@
 # Guided Topic Modeling
 Peter Nadel – Research Technology, TTS, Tufts University
+
 Dr. Rosemary Taylor – Department of Sociology, TTS, Tufts University
+
 Kyle Monahan – Research Technology, Tufts University
 
 This repository contains an implementation of the work presented as part of the Topic Modeling in the Age of Artificial Intelligence session at the Boston Digital Humanities Symposium (April 12, 2024).
